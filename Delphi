@@ -201,7 +201,7 @@ DiscordCorner.Parent = DiscordButton
 -- Auto copy Discord link after 5 seconds
 task.delay(5, function()
     if ScreenGui and ScreenGui.Parent then
-        setclipboard("https://discord.gg/YOURINVITEHERE")
+        setclipboard("https://discord.gg/TuCXYAh5Q5")
 
         local hint = Instance.new("TextLabel")
         hint.Size = UDim2.new(0.8, 0, 0, 22)
